@@ -1,0 +1,5 @@
+RAFLY RENCANA PROJECT
+- Project membuat Aplikasi sederhana dengan java
+  * Aplikasi kalkulator sederhana 
+  * Aplikasi konversi suhu
+- Project membuat website dengan PHP
