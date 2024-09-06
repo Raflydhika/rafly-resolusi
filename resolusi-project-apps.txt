@@ -1,0 +1,5 @@
+Project apps
+-Membuat aplikasi hitung rata nilai
+-Membuat aplikasi kasir sederha
+Dengan database
+-MongoDB
