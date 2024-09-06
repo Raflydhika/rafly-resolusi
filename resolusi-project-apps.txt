@@ -1,5 +1,9 @@
-Project Pembuatan Aplikasi
+
+Project apps
+-Membuat aplikasi hitung rata nilai
+-Membuat aplikasi kasir sederha
 -Aplikasi kalkulator sederhana
 -Aplikasi konversi suhu
 Dengan Database
 -Mysql
+
